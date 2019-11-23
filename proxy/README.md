@@ -11,20 +11,28 @@ tags:
 ---
 
 ## Also known as
-Surrogate
+Surrogate 
+##代理
 
-## Intent
+## Intent 目的
 Provide a surrogate or placeholder for another object to control
 access to it.
 
-## Explanation
+##为另一个对象提供代理项或占位符以控制对它的访问。
+
+## Explanation 解释
 Real world example
+##现实世界的例子
 
 > Imagine a tower where the local wizards go to study their spells. The ivory tower can only be accessed through a proxy which ensures that only the first three wizards can enter. Here the proxy represents the functionality of the tower and adds access control to it.
 
+##想象一下一座塔，在那里当地的巫师去研究他们的法术。象牙塔只能通过一个代理访问，该代理确保只有前三个巫师可以进入。在这里，代理代表塔的功能，并向其添加访问控制。
+
 In plain words
+##简单地说
 
 > Using the proxy pattern, a class represents the functionality of another class.
+##使用代理模式，一个类表示另一个类的功能。
 
 Wikipedia says
 
